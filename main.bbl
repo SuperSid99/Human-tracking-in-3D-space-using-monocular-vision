@@ -1,0 +1,71 @@
+\begin{thebibliography}{10}
+
+\bibitem{1}
+Quanzeng You and Hao Jiang.
+\newblock Real-time 3d deep multi-camera tracking.
+\newblock {\em arXiv preprint arXiv:2003.11753}, 2020.
+
+\bibitem{2}
+Andreas Specker, Daniel Stadler, Lucas Florin, and Jurgen Beyerer.
+\newblock An occlusion-aware multi-target multi-camera tracking system.
+\newblock pages 4168--4177, 06 2021.
+
+\bibitem{3}
+Ruiheng Zhang, Lingxiang Wu, Yukun Yang, Wanneng Wu, Yueqiang Chen, and Min Xu.
+\newblock Multi-camera multi-player tracking with deep player identification in
+  sports video.
+\newblock {\em Pattern Recognition}, 102:107260, 2020.
+
+\bibitem{4}
+Yuhang He, Xing Wei, Xiaopeng Hong, Weiwei Shi, and Yihong Gong.
+\newblock Multi-target multi-camera tracking by tracklet-to-target assignment.
+\newblock {\em IEEE Transactions on Image Processing}, PP, 03 2020.
+
+\bibitem{5}
+Peng Li, Jiabin Zhang, Zhu Zheng, Yanwei Li, Lu~Jiang, and Guan Huang.
+\newblock State-aware re-identification feature for multi-target multi-camera
+  tracking.
+\newblock pages 1506--1516, 06 2019.
+
+\bibitem{6}
+Yangming Cheng, Liulei Li, Yuanyou Xu, Xiaodi Li, Zongxin Yang, Wenguan Wang,
+  and Yi~Yang.
+\newblock Segment and track anything, 2023.
+
+\bibitem{7}
+Stephan Gammeter, Alexander Gassmann, Lukas Bossard, Till Quack, and Luc
+  Van~Gool.
+\newblock Server-side object recognition and client-side object tracking for
+  mobile augmented reality.
+\newblock pages 1 -- 8, 07 2010.
+
+\bibitem{8}
+Yuri Mikawa, Christian Eichhorn, and Gudrun Klinker.
+\newblock Multi-color led marker for dynamic target tracking in wide area.
+\newblock In {\em 2023 IEEE Conference on Virtual Reality and 3D User
+  Interfaces Abstracts and Workshops (VRW)}, pages 669--670, 2023.
+
+\bibitem{9}
+Youngmin Park, Vincent Lepetit, and Woontack Woo.
+\newblock Multiple 3d object tracking for augmented reality.
+\newblock 09 2008.
+
+\bibitem{10}
+Adel Ahmadyan, Tingbo Hou, Jianing Wei, Liangkai Zhang, Artsiom Ablavatski, and
+  Matthias Grundmann.
+\newblock Instant 3d object tracking with applications in augmented reality.
+\newblock {\em arXiv preprint arXiv:2006.13194}, 2020.
+
+\bibitem{11}
+Joseph Redmon, Santosh Divvala, Ross Girshick, and Ali Farhadi.
+\newblock You only look once: Unified, real-time object detection.
+\newblock In {\em Proceedings of the IEEE conference on computer vision and
+  pattern recognition}, pages 779--788, 2016.
+
+\bibitem{12}
+Camillo Lugaresi, Jiuqiang Tang, Hadon Nash, Chris McClanahan, Esha Uboweja,
+  Michael Hays, Fan Zhang, Chuo-Ling Chang, Ming~Guang Yong, Juhyun Lee,
+  Wan-Teh Chang, Wei Hua, Manfred Georg, and Matthias Grundmann.
+\newblock Mediapipe: A framework for building perception pipelines, 2019.
+
+\end{thebibliography}

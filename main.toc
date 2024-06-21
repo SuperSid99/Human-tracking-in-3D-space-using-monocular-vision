@@ -1,0 +1,35 @@
+\contentsline {chapter}{List of Figures}{iv}{}%
+\contentsline {chapter}{List of Algorithms}{vi}{}%
+\contentsline {chapter}{Acknowledgments}{vii}{}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{}%
+\contentsline {chapter}{\numberline {2}Related Work}{3}{}%
+\contentsline {chapter}{\numberline {3}Problem Statement and Background}{5}{}%
+\contentsline {section}{\numberline {3.1}Problem Statement}{5}{}%
+\contentsline {section}{\numberline {3.2}Background}{6}{}%
+\contentsline {subsection}{\numberline {3.2.1}Mapping the Room}{6}{}%
+\contentsline {subsection}{\numberline {3.2.2}Edge Detection}{7}{}%
+\contentsline {subsection}{\numberline {3.2.3}Line Detection}{9}{}%
+\contentsline {subsection}{\numberline {3.2.4}Corner Detection}{9}{}%
+\contentsline {subsection}{\numberline {3.2.5}Image Segmentation}{10}{}%
+\contentsline {subsection}{\numberline {3.2.6}Subject Detection }{10}{}%
+\contentsline {subsubsection}{\numberline {3.2.6.1}Neural Networks}{11}{}%
+\contentsline {subsubsection}{\numberline {3.2.6.2}Pose Detection}{12}{}%
+\contentsline {subsubsection}{\numberline {3.2.6.3}Perspective Views}{13}{}%
+\contentsline {subsection}{\numberline {3.2.7}Tracking}{16}{}%
+\contentsline {subsubsection}{\numberline {3.2.7.1}Predictive Processing}{17}{}%
+\contentsline {subsubsection}{\numberline {3.2.7.2}Feedback Mechanism}{17}{}%
+\contentsline {chapter}{\numberline {4}Methodology}{18}{}%
+\contentsline {section}{\numberline {4.1}Mapping the Room}{19}{}%
+\contentsline {section}{\numberline {4.2}Calculating the Coordinates}{20}{}%
+\contentsline {section}{\numberline {4.3}Tracking}{39}{}%
+\contentsline {chapter}{\numberline {5}Implementation and Results}{41}{}%
+\contentsline {section}{\numberline {5.1}Implementation}{42}{}%
+\contentsline {subsection}{\numberline {5.1.1}Weighted Vanishing Point}{42}{}%
+\contentsline {subsection}{\numberline {5.1.2}Coordinate Calculation}{48}{}%
+\contentsline {section}{\numberline {5.2}Results}{48}{}%
+\contentsline {subsection}{\numberline {5.2.1}The Experimental Setup}{49}{}%
+\contentsline {subsection}{\numberline {5.2.2}Mapping the Room}{49}{}%
+\contentsline {subsection}{\numberline {5.2.3}Person and Pose Detection}{56}{}%
+\contentsline {subsection}{\numberline {5.2.4}Coordinate Calculation and Tracking}{60}{}%
+\contentsline {chapter}{\numberline {6}Conclusion and Future Work}{63}{}%
+\contentsline {chapter}{Bibliography}{65}{}%

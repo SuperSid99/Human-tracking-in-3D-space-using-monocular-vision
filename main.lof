@@ -1,0 +1,45 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Edge Detection Convolution Filter}}{7}{}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Test Room Image}}{8}{}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Test Room Processed Through the Canny Edge Detector}}{8}{}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Test Room Processed Through Standard Hough Transform}}{9}{}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Test Room Processed Through Harris Corner Detector}}{10}{}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Neural Network Architecture With Two Hidden Layers}}{12}{}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces One Vanishing Point Perspective View}}{14}{}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Two Vanishing Point Perspective View}}{15}{}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Three Vanishing Point Perspective View}}{16}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Projections from Vanishing Point}}{21}{}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Generalized Projections from Vanishing Point}}{23}{}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Objects of Different Heights at Different Altitudes}}{27}{}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Ratios on The floor}}{30}{}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Step Size}}{33}{}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Step Size Labels}}{33}{}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Support for Depth Calculation}}{34}{}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Support for Depth Calculation}}{35}{}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Coordinate System}}{37}{}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Medium Sized Object}}{38}{}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Tall Person}}{38}{}%
+\contentsline {figure}{\numberline {4.12}{\ignorespaces Extremely Small Object}}{39}{}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces A Room in 1VP Perspective View}}{50}{}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces 1VP Perspective View Room Segmentation}}{51}{}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces 1VP Perspective View Line Detection}}{51}{}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces 1VP Perspective View Vanishing Point Possibility Space}}{52}{}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces 1VP Perspective View Weighted Vanishing Point}}{53}{}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces A Room in 3VP Perspective View}}{54}{}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces 3VP Perspective View Room Segmentation}}{54}{}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces 3VP Perspective View Line Detection}}{55}{}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces 3VP Perspective View Vanishing Point Possibility Space}}{55}{}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces 3VP Perspective View Weighted Vanishing Point}}{56}{}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Person Standing in a 1VP Perspective View Scene}}{56}{}%
+\contentsline {figure}{\numberline {5.12}{\ignorespaces Pose Marked Person Standing in a 1VP Perspective View Scene}}{57}{}%
+\contentsline {figure}{\numberline {5.13}{\ignorespaces Partially Visible Person Standing in a 1VP Perspective View Scene}}{58}{}%
+\contentsline {figure}{\numberline {5.14}{\ignorespaces Boundary and Pose Detected of a Partially Occluded Person}}{59}{}%
+\contentsline {figure}{\numberline {5.15}{\ignorespaces A Tall Person in a Room}}{60}{}%
+\contentsline {figure}{\numberline {5.16}{\ignorespaces A Short Person in a Room}}{61}{}%
+\contentsline {figure}{\numberline {5.17}{\ignorespaces Tall Person Coordinate Calculation}}{61}{}%
+\contentsline {figure}{\numberline {5.18}{\ignorespaces Short Person Coordinate Calculation}}{62}{}%
+\addvspace {10\p@ }
